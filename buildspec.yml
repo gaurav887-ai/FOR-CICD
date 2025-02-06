@@ -16,5 +16,5 @@ phases:
 
 artifacts:
   files:
-    - /for-cicdi/for-cicd/index.html
+    - s3/for-cicdi/for-cicd/index.html
 
